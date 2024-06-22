@@ -7,4 +7,4 @@
 在Tcl Console终端输入指令<write_edif save_file_path/netlist_file_name.edf>
 
 并且在代码对应处的输入改为自己的电路网表文件
-（上传文件中的‘block_2_mao.edf’仅作为参考文件）
+（上传文件中的‘block.edf’仅作为参考文件）
